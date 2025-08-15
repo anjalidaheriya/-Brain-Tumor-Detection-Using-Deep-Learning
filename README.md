@@ -19,11 +19,12 @@ You can use the **Brain Tumor MRI Dataset** from Kaggle or other open sources.
 Example: [Brain Tumor MRI Dataset (Kaggle)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
 ## 📌 Model summary 
 <img width="548" height="676" alt="Screenshot 2025-08-16 at 3 05 14 AM" src="https://github.com/user-attachments/assets/ccd11398-a710-4bde-a931-e825f13ae6f6" />
-##📌 Requirements
-Python 3.x
-TensorFlow / Keras
-NumPy
-OpenCV
-Matplotlib
-scikit-learn
+
+📌 **Requirements**
+- Python 3.x  
+- TensorFlow / Keras  
+- NumPy  
+- OpenCV  
+- Matplotlib  
+- scikit-learn  
 
